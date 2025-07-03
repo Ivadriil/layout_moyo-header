@@ -48,6 +48,9 @@ body {
 
 .list__item:first-child {
   margin-left: 0;
+}
+
+.item__link.is-active {
   color: #00acdc;
 }
 
